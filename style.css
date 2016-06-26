@@ -16,3 +16,12 @@ h1
 	font-size : 80px;
 
 }
+
+h2
+{
+
+	text-align: center;/*les sous-titres sont centrés sur la page*/
+	margin-top: 10%;
+	min-width: 200px;
+	background-color: orange;/*les sous-titres sont surlignés en orange*/
+}
