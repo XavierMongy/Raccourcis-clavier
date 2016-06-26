@@ -33,3 +33,8 @@ td
 	background-color: rgba(8,8,8,0.3);/* utilisitation de rgba pour l'opacité du background*/
 
 }
+
+p
+{
+	margin-top: 10%;
+}
